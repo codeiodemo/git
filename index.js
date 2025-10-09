@@ -1,5 +1,7 @@
-console.log("Welcome to the git Course");
+console.log("Hello and welcome to the git Course");
 
 for(var i=0;i<5;i++){
     console.log("code io");
 }
+
+console.log("change from bug branch");
